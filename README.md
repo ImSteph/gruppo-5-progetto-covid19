@@ -1,6 +1,13 @@
 # gruppo-5-progetto-covid19
 Progetto Interdisciplinare COVID19 - Gruppo 5 - ITT.Fauser Novara - Classe 5DIN
 
+# Membri del gruppo:
+- Rigato Stefano
+- Bennardo Antonio
+- Brisio Domenico
+- Cerrito Federico
+- Zani Andrea
+
 # Informatica
 Schema concettuale, logico, query e sito web completati rispettando tutte le richieste.
 # Sistemi e reti

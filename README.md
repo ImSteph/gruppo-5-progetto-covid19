@@ -2,10 +2,10 @@
 Progetto Interdisciplinare COVID19 - Gruppo 5 - ITT.Fauser Novara - Classe 5DIN
 
 # Informatica
-WBS ancora in sviluppo
+Schema concettuale, logico, query e sito web completati rispettando tutte le richieste.
 # Sistemi e reti
-WBS ancora in sviluppo
+Infrastruttura di rete realizzata su Packet Tracer completata rispettando tutte le richieste.
 # Teconologia e Progettazione
-WBS ancora in sviluppo
+Web application realizzata con successo e pubblicata al seguente indirizzo: http://www.netlab.fauser.edu/java-studenti/gruppo-5-progetto-tp/
 # Gestione progetto
-WBS ancora in sviluppo
+PID, WBS e diagramma di Gantt sono stati sviluppati per tutte le materie.
